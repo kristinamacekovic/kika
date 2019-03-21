@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/kika",
   siteMetadata: {
     title: `Kristina Maceković`,
     author: `Kristina Maceković`,
@@ -6,7 +7,7 @@ module.exports = {
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
       github: `kristinamacekovic`,
-      twitter: `neznam_neznam_n`
+      twitter: `neznam_neznam_n`,
     },
   },
   plugins: [
