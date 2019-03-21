@@ -38,11 +38,12 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and works in San
-              Francisco building useful things.
+              Written by <strong>{author}</strong>. Currently based in Prague
+              and working as a predictive modeler.
               {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
+              <a href={`https://github.com/${social.github}`}>Github</a>,
+              <a href="www.linkedin.com/in/kristina-maceković-693a24155">
+                LinkedIn
               </a>
             </p>
           </div>
@@ -65,7 +66,7 @@ const bioQuery = graphql`
       siteMetadata {
         author
         social {
-          twitter
+          github
         }
       }
     }
