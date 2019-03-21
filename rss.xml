@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Kristina Maceković]]></title><description><![CDATA[Personal website of Kristina Maceković]]></description><link>https://gatsby-starter-blog-demo.netlify.com/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 21 Mar 2019 22:53:50 GMT</lastBuildDate><item><title><![CDATA[Design Thinking]]></title><description><![CDATA[I’m increasingly big on frameworks for structured thinking, and of course design thinking is very popular right now. So when the opportunity…]]></description><link>https://gatsby-starter-blog-demo.netlify.com//design-thinking/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com//design-thinking/</guid><pubDate>Sat, 23 Feb 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I’m increasingly big on frameworks for structured thinking, and of course design thinking is very popular right now. So when the opportunity came to attend a design thinking workshop (thanks to the lovely ladies at &lt;a href=&quot;https://femme-palette.mn.co/share/pbLck9eCCjwAVLuK&quot;&gt;Femme Palette&lt;/a&gt;), I was immediately sold.&lt;/p&gt;
+&lt;p&gt;This post is meant to be sort of a reminder/notes for myself, and a short intro for anybody else wanting to learn more about it.&lt;/p&gt;
+&lt;p&gt;Concerning the materials, I found a wonderful workshop kit that’s free to download over at &lt;a href=&quot;https://marvelapp.com/workshops&quot;&gt;Marvel&lt;/a&gt;, so you can download it, follow along or even organise your own workshop! The package contains all you’d need for participants and facilitators, so it’s a really comprehensive resource.&lt;/p&gt;
+&lt;h1&gt;What is it?&lt;/h1&gt;
+&lt;p&gt;Design is oftentimes mistaken for an aesthetic-focused field. On the contrary—while pleasing aesthetics is often a side product of good design, the main objective of design is to &lt;em&gt;solve problems while putting users and experiences first&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Design thinking is a methodology used by designers to facilitate ideation and rapid prototype development by focusing on users and their needs. Although the name says design, you don’t need to be a designer to reap benefits from its usage. If you have a problem you want to solve with a clear user at the other end, design thinking is probably a good place to start.&lt;/p&gt;
+&lt;p&gt;The method boils down to 5 stages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Emphatise&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Know the user you’re designing for—you want to know their needs.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Define&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Clearly&lt;/em&gt; define the problem you’re trying to solve.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ideate&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Produce different ideas and solutions that might be useful. In this stage, there are no bad ideas!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Prototype&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Turn ideas into realistic mockups that you can use to test.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Test&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Gain feedback from the intended user.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The goal is to move at speed to generate ideas and produce a prototype that can be tested on the users. The upside for the user is their needs will (should) be met. The upside for you is you’ll have a testable product very quickly, so you won’t spend too much time on something nobody needs. Also, by keeping the user in mind during the production process, there will be less chance of this situation in the first place.&lt;/p&gt;
+&lt;h1&gt;Let’s begin the workshop!&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Timeframe:&lt;/strong&gt; from 1 hour to 1 day&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Agenda with rough time distribution&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Empathise: 10% of the time&lt;/li&gt;
+&lt;li&gt;Define: 10%&lt;/li&gt;
+&lt;li&gt;Ideate: 10%&lt;/li&gt;
+&lt;li&gt;Prototype: 50%&lt;/li&gt;
+&lt;li&gt;Test: 20%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Theme:&lt;/strong&gt; If you’re doing this in your company, this is probably the problem you’re trying to solve (new feature, app, store location, you name it). If it’s a general workshop, each team could have a different problem/theme.&lt;/p&gt;
+&lt;h2&gt;1. Empathise&lt;/h2&gt;
+&lt;p&gt;As the name suggests, you should get in the head of your end-user and try to think of their daily experience. This will be your guiding light during the other sections of the workshop. This should be as specific as you can get:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How old are they?&lt;/li&gt;
+&lt;li&gt;What do they eat?&lt;/li&gt;
+&lt;li&gt;What’s their occupation?&lt;/li&gt;
+&lt;li&gt;Where do they live?&lt;/li&gt;
+&lt;li&gt;Do they live alone or with someone? Their relationship status?&lt;/li&gt;
+&lt;li&gt;What’s their daily routine like?&lt;/li&gt;
+&lt;li&gt;What is their mission in life, i. e. what makes them tick?&lt;/li&gt;
+&lt;li&gt;What problems do they face day to day?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Here you can also think about their personality traits, likes/dislikes, goals, map out their typical schedule etc.&lt;/p&gt;
+&lt;h2&gt;2. Define&lt;/h2&gt;
+&lt;p&gt;The goal of this section should be to define a &lt;em&gt;meaningful&lt;/em&gt; problem. The problem should be meaningful for the end-user, and describe a pain point in their (daily) experience. Try to be as clear and focused as possible, not to make the problem vague and thus hard to solve. Refer to the previous stage as often as needed not to lose track of the user’s needs. While doing so, think—why is this (and is it really) a problem for them and why is it so important to them?&lt;/p&gt;
+&lt;h2&gt;3. Ideate&lt;/h2&gt;
+&lt;p&gt;Time to let loose. The goal here is to generate as many ideas as possible. Nothing is off limits or too crazy to at least mention, as long as it’s routed in the original problem of our user.&lt;/p&gt;
+&lt;p&gt;Now we can get closer to the right idea by asking&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Our user needs to be able to…&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;⇒&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Our design needs these features…&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This way we can root out unrealistic ideas.&lt;/p&gt;
+&lt;p&gt;After you pick an idea, think of a name for your product/feature and give it a catchy tagline!&lt;/p&gt;
+&lt;h2&gt;4. Prototype&lt;/h2&gt;
+&lt;p&gt;Now it’s time to make it real. A picture says a 1000 words, so the best way to really test a product is to make it and show it to people. While working on your prototypes, keep in mind:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;don’t get hung up on visuals, the goal is to &lt;em&gt;build&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;move fast, don’t spend too much time on one idea&lt;/li&gt;
+&lt;li&gt;design only what is essential for testing—everything else can be added later&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In general, start with a flowchart of the &lt;em&gt;user journey,&lt;/em&gt; i. e. how they will probably interact with your solution. For example, they open the home page, click the search button, enter search term, it takes them to the results page, etc.&lt;/p&gt;
+&lt;p&gt;Then, sketch out the screens of your product (desktop or mobile). If you have time, you can do an interactive prototype, but a simple sketch is enough for starters.&lt;/p&gt;
+&lt;h2&gt;5. Test&lt;/h2&gt;
+&lt;p&gt;Expose the potential user to your prototype. Let them interact with it and try not to interfere too much. Notice any setbacks and issues they experienced. At the end you should have a list of next steps—suggestions that could make your solution better. At the end of the test, you can ask some questions like: did you like the app, would you use it again, was something confusing for you (if yes, what and why), etc. Note down the feedback. Maybe there will be some positives you didn’t expect, or negatives you didn’t think of during the ideation process.&lt;/p&gt;
+&lt;p&gt;That’s it, you’re done! At this point, you should have a much clearer road ahead, so you can start on the development. When you get stuck or want to add additional features, you can go back to design thinking to facilitate the development process.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Scraping and Word Clouds with Python]]></title><description><![CDATA[Recently I started going through Harvard’s  CS109 class , which aims to be a practical and broad intro to data science (using python). I’m…]]></description><link>https://gatsby-starter-blog-demo.netlify.com//scraping-and-wordclouds-with-python/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com//scraping-and-wordclouds-with-python/</guid><pubDate>Fri, 01 Feb 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Recently I started going through Harvard’s &lt;a href=&quot;http://cs109.github.io/2015/&quot;&gt;CS109 class&lt;/a&gt;, which aims to be a practical and broad intro to data science (using python). I’m enjoying it a lot, and it has definitely given me a push to do something with python (finally!).&lt;/p&gt;
+&lt;p&gt;A few months ago, I was intrigued by the beautiful SQL lessons at &lt;a href=&quot;https://selectstarsql.com&quot;&gt;SELECT * SQL&lt;/a&gt;—mainly because of the excellent content, but also because of the intriguing data set. The data set deals with last statements of prisoners on death row. It is definitely a controversial topic, but I think an interesting one that can only spark productive discussion. What is really interesting is that such data &lt;em&gt;exists&lt;/em&gt; and is &lt;em&gt;publicly accessible.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;For the little project, I decided to scrape the data and do some type of short analysis that could be impactful. I ended up doing a word cloud of the statements (inspiration was &lt;a href=&quot;http://www.goodbyewarden.com/&quot;&gt;Goodbye, Warden&lt;/a&gt;, data is &lt;a href=&quot;https://www.tdcj.texas.gov/death_row/dr_executed_offenders.html&quot;&gt;here&lt;/a&gt; and is the same as for SELECT * SQL). So, lets start.&lt;/p&gt;
+&lt;h1&gt;The Process&lt;/h1&gt;
+&lt;p&gt;Import the relevant modules.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;    &lt;span class=&quot;token comment&quot;&gt;# module for http requests&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; requests
+    &lt;span class=&quot;token comment&quot;&gt;# module for handling markup objects&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; bs4 &lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; BeautifulSoup
+    &lt;span class=&quot;token comment&quot;&gt;# visualization module&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; matplotlib
+    &lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; matplotlib&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;pyplot &lt;span class=&quot;token keyword&quot;&gt;as&lt;/span&gt; plt
+    &lt;span class=&quot;token comment&quot;&gt;# print out graphics in the document&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;%&lt;/span&gt;matplotlib inline
+    &lt;span class=&quot;token comment&quot;&gt;# module that implements word clouds&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; wordcloud &lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; WordCloud&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Get the site with the links to all the prisoner information. To get a manageable version, apply BeautifulSoup to the original results. The prettify function can be used to get a more human-readable version of the text.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;    main_pg_txt &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; requests&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;get&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;https://www.tdcj.texas.gov/death_row/dr_executed_offenders.html&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;text
+    &lt;span class=&quot;token comment&quot;&gt;# main_pg_txt&lt;/span&gt;
+    main_pg_html &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; BeautifulSoup&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;main_pg_txt&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;token comment&quot;&gt;# main_pg_html.prettify()&lt;/span&gt;
+    &lt;span class=&quot;token comment&quot;&gt;# main_pg_html&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Now it’s time to figure out how to access the last statements. Here the crucial tools is the dev tools in the browser (element inspector in particular). I was expecting the “Last Statement” to have some type of class or id, but unfortunately it didn’t have, so I had to find a common structure and use that instead.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/kika/static/45718b260d0250147cd97ebff76e9426/1b01e/Screenshot2019-02-01at21-d6c00a7a-fa05-474c-89d6-56a21e509766.49.24.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 55.833333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACb0lEQVQoz43Q3UvTURjA8f0TIr7k617c3PS3Tc0ZFjb3om6mSNi/0EXdddddEARFUARBVxFYUImllkaaqaOMiaWu1MRN82VmOt1cbtb27eznC9lVBz48z3nO7/dwnqPwTPjxTAQYHvdz40Evl24+4u6TAfpGZ3k79hXf7AIz80G+rYbwTi3w2jsjfzv4aU42ND7HXo89Cv5a5y/fwuS+wNU7bZCME4tuCWFxkuR/l+J3IkEymSS++4srtx/SevEa1++186x/lPvPh2nvH6NzaJIXns90e3z0vPtC97CPriEfHQMTjEwGSCSS+xIoUs0OxOK7xGJxQlsRugY/0tbjpe3lB9nTVyN09HnpfOOV88e974URPGPT8gQHPY6MHIvFiO3syKLbYRaD6yyvrhNcCxGNbPFze4vQ+hqbG4KIkc0NUQsfHTm5/0Kp60ajUcLhCJFIhODqd6bmlpj2LzE7v8JKcJXllRXm/H78gQCB+XkWF5dYW/sh/3t4w5az52huaaWxsQm3+wwulxuXu5G6+gZsjnps9joczgbq6104nWJvc2C11opop7bWJucOh1OcN+ASPRT5+SoMBiOSsQKdwYBSU0R+gYpU/Yg8pRwLCtSHMjOzycjIJC0tnfT0DCEThd5gwlJVw8nqWiqOV1NaWkZpSRl6vVGQ9qPxcF98oFhCqdRQWKhCpdKg0xmQJDMKrUaL0VhOmbESyWBGKjGh0+opEvV/aYt06PalcqVSjVqtJS+3gOzsHHJy8lEUl1uRLE4sp5qoqmkWmjCfcIqaHaPFganKIedSpZ3iMitaUw1a82k55opnyBJjZ2UdO/QHWyRPY1ct69oAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Screenshot2019 02 01at21 d6c00a7a fa05 474c 89d6 56a21e509766 49 24&quot;
+        title=&quot;&quot;
+        src=&quot;/kika/static/45718b260d0250147cd97ebff76e9426/6255c/Screenshot2019-02-01at21-d6c00a7a-fa05-474c-89d6-56a21e509766.49.24.png&quot;
+        srcset=&quot;/kika/static/45718b260d0250147cd97ebff76e9426/375dc/Screenshot2019-02-01at21-d6c00a7a-fa05-474c-89d6-56a21e509766.49.24.png 148w,
+/kika/static/45718b260d0250147cd97ebff76e9426/6b157/Screenshot2019-02-01at21-d6c00a7a-fa05-474c-89d6-56a21e509766.49.24.png 295w,
+/kika/static/45718b260d0250147cd97ebff76e9426/6255c/Screenshot2019-02-01at21-d6c00a7a-fa05-474c-89d6-56a21e509766.49.24.png 590w,
+/kika/static/45718b260d0250147cd97ebff76e9426/dcf9c/Screenshot2019-02-01at21-d6c00a7a-fa05-474c-89d6-56a21e509766.49.24.png 885w,
+/kika/static/45718b260d0250147cd97ebff76e9426/43c8a/Screenshot2019-02-01at21-d6c00a7a-fa05-474c-89d6-56a21e509766.49.24.png 1180w,
+/kika/static/45718b260d0250147cd97ebff76e9426/1b01e/Screenshot2019-02-01at21-d6c00a7a-fa05-474c-89d6-56a21e509766.49.24.png 1440w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Using the bs4’s function find_all, we can find all links which contain the wanted text.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;    &lt;span class=&quot;token comment&quot;&gt;# find all links with text &quot;Last Statement&quot;&lt;/span&gt;
+    links &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; main_pg_html&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;find_all&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;a&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; href&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token boolean&quot;&gt;True&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; text&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;Last Statement&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;token comment&quot;&gt;# len(links)&lt;/span&gt;
+    &lt;span class=&quot;token comment&quot;&gt;# links&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Now it’s easy to get all the href’s inside the link tags. Two of the links were of different extensions compared to the others so I manually changed them. Then I defined the urls I’m going to use as the base url concatenated with the extracted links.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;    &lt;span class=&quot;token comment&quot;&gt;# get the urls&lt;/span&gt;
+    urls &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;link&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;href&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;for&lt;/span&gt; link &lt;span class=&quot;token keyword&quot;&gt;in&lt;/span&gt; links&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
+    &lt;span class=&quot;token comment&quot;&gt;# urls&lt;/span&gt;
+    urls&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;13&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;dr_info/cardenasrubenlast.html&apos;&lt;/span&gt;
+    urls&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;14&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;dr_info/pruettrobertlast.html&apos;&lt;/span&gt;
+    &lt;span class=&quot;token comment&quot;&gt;# urls&lt;/span&gt;
+    whole_urls &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;https://www.tdcj.texas.gov/death_row/&apos;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; url &lt;span class=&quot;token keyword&quot;&gt;for&lt;/span&gt; url &lt;span class=&quot;token keyword&quot;&gt;in&lt;/span&gt; urls&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
+    &lt;span class=&quot;token comment&quot;&gt;# whole_urls&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Once again, the structure of the pages with the statements wasn’t unified so I had to find a pattern and apply it like this (most of the times, it ended up being the 5th paragraph).&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/kika/static/46f83bfaac08fe3a1f786972b89a900c/9d22d/Screenshot2019-02-01at22-39dccc7f-f8f4-4a61-a959-9d85a38a3d02.19.58.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 29.464906184850587%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAGCAYAAADDl76dAAAACXBIWXMAAAsSAAALEgHS3X78AAABdElEQVQY01WMTU8aQQCG9w9VkN2dXXfZYUGKWhOLhpha+yFgUEA0Len/IJH2WOIHpof21AqmSc8mTQxtL3pRMMY/0FNTo4/DEr8mefI+70zm1bh/ri7g8j+X//7S6RxweHTI6ekJ3e7xgN6x6t2AnrrvqTw/O1EfL24ntEbrF3029v6wudf3Dl9+HLC/v0vj8zdqm7vUmy3q2y3WFfVmm/c7bT58+k5tqx30xteffGz9Dna0XOktueIbZuZyvC6sBj6fW6ZYLpMtrJBdWuPV4krAQqGissTLfJkX+RKL5Srz+QrZYpVC5R39Lc2POqQScRJSZVziuw6WGcEWJrapE7UFRmQowDaHMYYfIYwwph5SPYxwRrGcGJ5r4To2Wth08f0JptOzPJnM4HpjRISHbkl0Ie/ceuiGFVPp4XsJkn4SYQmEsNBCI5NERzPEx+eQ48+JPn6G8GcwvKcYMj2g714aUw64edO9KeJ+irFkCiklrutyDR+MGomm/AR3AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Screenshot2019 02 01at22 39dccc7f f8f4 4a61 a959 9d85a38a3d02 19 58&quot;
+        title=&quot;&quot;
+        src=&quot;/kika/static/46f83bfaac08fe3a1f786972b89a900c/6255c/Screenshot2019-02-01at22-39dccc7f-f8f4-4a61-a959-9d85a38a3d02.19.58.png&quot;
+        srcset=&quot;/kika/static/46f83bfaac08fe3a1f786972b89a900c/375dc/Screenshot2019-02-01at22-39dccc7f-f8f4-4a61-a959-9d85a38a3d02.19.58.png 148w,
+/kika/static/46f83bfaac08fe3a1f786972b89a900c/6b157/Screenshot2019-02-01at22-39dccc7f-f8f4-4a61-a959-9d85a38a3d02.19.58.png 295w,
+/kika/static/46f83bfaac08fe3a1f786972b89a900c/6255c/Screenshot2019-02-01at22-39dccc7f-f8f4-4a61-a959-9d85a38a3d02.19.58.png 590w,
+/kika/static/46f83bfaac08fe3a1f786972b89a900c/dcf9c/Screenshot2019-02-01at22-39dccc7f-f8f4-4a61-a959-9d85a38a3d02.19.58.png 885w,
+/kika/static/46f83bfaac08fe3a1f786972b89a900c/43c8a/Screenshot2019-02-01at22-39dccc7f-f8f4-4a61-a959-9d85a38a3d02.19.58.png 1180w,
+/kika/static/46f83bfaac08fe3a1f786972b89a900c/9d22d/Screenshot2019-02-01at22-39dccc7f-f8f4-4a61-a959-9d85a38a3d02.19.58.png 1439w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;I then defined a function which goes through an array of urls, for each url processes it, gets the statement and appends it to an array.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;    &lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;get_last_statements&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;urls&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+        statements &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;for&lt;/span&gt; url &lt;span class=&quot;token keyword&quot;&gt;in&lt;/span&gt; urls&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+            site &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; requests&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;get&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;url&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;text
+            html &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; BeautifulSoup&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;site&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+            ps &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; html&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;find_all&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;p&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+            &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token builtin&quot;&gt;len&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;ps&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+                statement &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; ps&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;getText&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+            statements&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;append&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;statement&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; statements&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Assign the statements array with our array of links.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;    last_statements &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; get_last_statements&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;whole_urls&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;token comment&quot;&gt;# last_statements&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Join all the statements into one string separated by blanks:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;    combined &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot; &quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;join&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;statement &lt;span class=&quot;token keyword&quot;&gt;for&lt;/span&gt; statement &lt;span class=&quot;token keyword&quot;&gt;in&lt;/span&gt; last_statements&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;token comment&quot;&gt;# combined&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Make a word cloud using the Wordcloud function (from the module of the same name) and save to a png file.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;    wordcloud &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; WordCloud&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;max_font_size&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; max_words&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;200&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; background_color&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;white&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;generate&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;combined&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+
+    &lt;span class=&quot;token comment&quot;&gt;# Display the generated image:&lt;/span&gt;
+    plt&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;imshow&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordcloud&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; interpolation&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;bilinear&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    plt&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;axis&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;off&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    plt&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;show&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;token comment&quot;&gt;# save to png file&lt;/span&gt;
+    wordcloud&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;to_file&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;last_statements.png&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h1&gt;The Result&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/last_statements-fefe8fdd-9376-4547-af05-534c1fbf37b7.png&quot; alt=&quot;Last Statements Word Cloud&quot;&gt;&lt;/p&gt;
+&lt;h1&gt;Summary&lt;/h1&gt;
+&lt;p&gt;This was a very short exercise in python and web scraping. Definitely, a lot more can be done and a more rigorous approach can be taken. For now it was a good start with immediate results, and maybe some day I’ll get back to the data in the future with more ideas. The general approach was:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Starting point: an origin site with a bunch of links&lt;/li&gt;
+&lt;li&gt;Find a way to get all the urls to the separate sites (use dev tools inspector)&lt;/li&gt;
+&lt;li&gt;Get all the urls and store them in an array&lt;/li&gt;
+&lt;li&gt;Investigate again with element inspector how to get a particular statement from separate site&lt;/li&gt;
+&lt;li&gt;Define a function that for each url, grabs a particular statement and stores it in an array&lt;/li&gt;
+&lt;li&gt;Combine all the statements into a single string and input it into the wordcloud function&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[What I Learned From Diana]]></title><description><![CDATA[This is a summary and reflection on the manga “The Adventures of Johnny Bunko” by Daniel H. Pink. You can purchase the book on  Amazon…]]></description><link>https://gatsby-starter-blog-demo.netlify.com//what-i-learned-from-diana/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com//what-i-learned-from-diana/</guid><pubDate>Sun, 13 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;This is a summary and reflection on the manga “The Adventures of Johnny Bunko” by Daniel H. Pink. You can purchase the book on &lt;a href=&quot;https://www.amazon.com/Adventures-Johnny-Bunko-Career-Guide-ebook/dp/B0015DRPL8&quot;&gt;Amazon&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Stop me if you’ve heard this one before: you’re out of school (college, university; whatever), ready to take on the world. But soon enough, you come to the realisation that you don’t really know how and what that actually means for you personally—you’ve spent your whole life following the roadmap carefully laid out for you (by whom exactly?). Now, suddenly, it’s up to you to make the new roadmap and put it into action.&lt;/p&gt;
+&lt;p&gt;It turns out, it’s not that easy to do. In this new world, you’re the one who defines success and happiness. Unfortunately, up till now, success was only measured in terms of standardised tests and competition. How do you go about defining these new parameters that will be tailored to you, and not just follow everybody else’s lead (supposing this is what you want to do)?&lt;/p&gt;
+&lt;p&gt;When you first start thinking about your working career (and in that respect, most of your adult life), if you’re not one of the lucky ones that know from a young age what they want to do, you’re tortured by questions. What do I want to do with my life? What if you studied something just because it was the “safest” choice at the time? If you want to change directions, how to do it? How can I be happy at work? How can I be &lt;em&gt;good&lt;/em&gt; at what I do? How can I make a n-year plan that will take me where I want to be?&lt;/p&gt;
+&lt;p&gt;All these questions and more have been bugging me too for some time, so when I first learned about this unique book while listening to Tim Ferriss’ &lt;a href=&quot;https://tim.blog/2014/08/29/kevin-kelly/&quot;&gt;podcast&lt;/a&gt; where he interviewed Kevin Kelly, I immediately jumped to the opportunity to read it. This book is actually in manga format and exceptionally easy and fast to read, but the lessons you take from it can serve you for years to come. As the name says, it follows the adventures of Johnny Bunko, a new graduate working at his first job. Of course, he is tormented by the usual things people in that position experience: horrible boss, uninspiring work, wishful thinking about other possible things he would like to be working on, etc. With the help of some magic chopsticks, he gets help from a magical woman-creature (with an MBA from Oxford funny enough) called Diana. We can think of Diana as the fairy godmother of office workers, sent to teach the masses about what makes a successful and satisfying career. With no further ado, this is what Johnny and I have learned from Diana.&lt;/p&gt;
+&lt;h1&gt;Lesson 1: There is no plan&lt;/h1&gt;
+&lt;p&gt;Probably most of us have had or currently have some sort of a “plan” in place, which is supposed to take us to the place we want to be in a few years time. The problem is—life doesn’t work that way, and if you force it to try to work that way, you’re probably just going to get stuck in one place. Usually we think (well we &lt;em&gt;plan&lt;/em&gt;) we’re going to do A, which is going to open doors for us to B, which will ultimately get us an offer from C, which we wanted in the first place. But life and careers don’t have to be that way, and much to our dissatisfaction, they usually aren’t. The real scenario would look more like A, then soup, then colour green, then cloud, and finally get to W.&lt;/p&gt;
+&lt;p&gt;How to deal with this? What distinguishes most successful people from the rest is that they make decisions for fundamental instead of instrumental reasons. What’s the difference? You do something for &lt;strong&gt;instrumental&lt;/strong&gt; reasons because you think it will lead to something else, regardless if you enjoy it or you think it’s worthwhile. On the other hand, you so something for &lt;strong&gt;fundamental&lt;/strong&gt; reasons if you think it’s valuable, either to you or somebody else, and regardless of what it may lead to. People who use that kind of reasoning (usually they don’t think about it, they’re just wired like that) take certain jobs because and only if they know they will enjoy the work, the culture etc, and not because it may be a stepping stone for something else. They also learn and do stuff just for their intrinsic value, not because it’s popular, sought after or prestigious.&lt;/p&gt;
+&lt;p&gt;Jason Fried (founder of Basecamp) has stated he never makes plans because it doesn’t make sense to make plans based on you &lt;em&gt;now&lt;/em&gt;, because the person you’ll be when you achieve this will be totally different. When you think of it that way, it makes more sense, right?&lt;/p&gt;
+&lt;h1&gt;Lesson 2: Think strengths, not weaknesses&lt;/h1&gt;
+&lt;p&gt;I noticed I’m not really good at my work, and it’s a source of a lot of tension and anxiety. But if I only take this and this course and after that learn this and persevere through this, after a few years, maybe I’ll have a shot at becoming decent at it!&lt;/p&gt;
+&lt;p&gt;Instead of torturing yourself like this, why not concentrate on what you’re good at, a not try to correct your weaker sides (this does not mean don’t ever try to get better at something, just don’t spent time on things you’re at best going to be mediocre at, especially if those same things you don’t enjoy doing)?&lt;/p&gt;
+&lt;p&gt;Think about this:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What do you consistently do &lt;strong&gt;well&lt;/strong&gt;?&lt;/li&gt;
+&lt;li&gt;What &lt;strong&gt;gives&lt;/strong&gt; you energy rather than &lt;strong&gt;drains&lt;/strong&gt; it?&lt;/li&gt;
+&lt;li&gt;What sorts of activities create &lt;strong&gt;flow&lt;/strong&gt; for you?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Flow&lt;/strong&gt; is the mental state of operation in which the person is fully immersed in what he or she is doing, characterised by a feeling of energised focus, full involvement, and success in the process of the activity.&lt;/p&gt;
+&lt;h1&gt;Lesson 3: It’s not about you&lt;/h1&gt;
+&lt;p&gt;The point of the work you’re doing is not for you to self-actualise and live out your wishes. The point is to create value for your customer, boss, company, coworkers. Creating this value will lead to creating value for yourself through recognition from others. Reserve some passions for hobbies or side-projects. Connecting to lesson 2—this value will be greater if you’re doing something that you’re good at.&lt;/p&gt;
+&lt;h1&gt;Lesson 4: Persistence trumps talent&lt;/h1&gt;
+&lt;p&gt;No amount of natural talent will ever trump persistence. This is just a fact, but it’s sometimes hard to notice because success stories are often portrayed as overnight and due to some innate abilities. Have you noticed that athletes (any type of activity that instilled practice as crucial from a young age) often have success in other fields as well? This is because they’re used to constant, never-ending, mind-numbing drilling that is needed for excellence. Compound interest translates to performance as well—small increments in skill add on to each other and lead to success.&lt;/p&gt;
+&lt;h1&gt;Lesson 5: Make excellent mistakes&lt;/h1&gt;
+&lt;p&gt;Too many people fear failure (oftentimes the product of traditional education), usually not to feel embarrassed and ridiculed by peers. On the other hand, Peter Thiel (founder of Paypal, Palantir, author of “0 to 1”) thinks that failure is overrated, in the sense that (companies, but can be applied to people as well) tend to guard themselves from failure by keeping their exit strategies (options) open.&lt;/p&gt;
+&lt;p&gt;What we should actually do is make &lt;em&gt;excellent&lt;/em&gt; mistakes. Meaning: make mistakes from which the benefits of what you’ve learned exceed the costs of the screw-up.&lt;/p&gt;
+&lt;h1&gt;Lesson 6: Leave an imprint&lt;/h1&gt;
+&lt;p&gt;At the end of the day, during your life, you want to have done something of significance. Significant not in a look-at-me-I’m-famous way, but in a way that after you’re gone, you’ve left an imprint, an additional value on your family, friends, community, industry or some other aspect of your life. Too many people start thinking about this only when it’s too late. What you can do is start now.&lt;/p&gt;</content:encoded></item></channel></rss>
